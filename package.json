@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "discord.js": "^14.6.0"
+  },
+  "name": "xcub3",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "eslint": "^8.25.0"
+  }
+}
